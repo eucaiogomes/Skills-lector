@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quarta-feira, 1 de abril de 2026 01:35:37
+   Origem : c:\Users\gcaio\Downloads\Gerador Video 7.0\
+     Dest : C:\Users\gcaio\OneDrive\Documentos\caio\
+
+    Arquivos: *.*
+	    
+Arquivos Exc: *.pyc
+	    
+ Diret¢rios Exc: .venv
+	    __pycache__
+	    
+  Op‡äes: *.* /TEE /S /E /DCOPY:DA /COPY:DAT /R:2 /W:5 
+
+------------------------------------------------------------------------------
+
+	                  13	c:\Users\gcaio\Downloads\Gerador Video 7.0\
+	*Dir EXTRA        -1	C:\Users\gcaio\OneDrive\Documentos\caio\.obsidian\
+	*Dir EXTRA        -1	C:\Users\gcaio\OneDrive\Documentos\caio\Pipeline Visual\
+	  *Arquivo EXTRA		     195	Bem-vindo.md
+	  Novo Arquivo		     114	.env100%  
+	  Novo Arquivo		    1153	assets_manager.py100%  
+	  Novo Arquivo		       0	backup_log.txt

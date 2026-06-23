@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "4d7f84c82bc76c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "f998dbfc29dfde1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4574ef625cf533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermes Agent - Base de Conhecimento/Lector Live/09 - Treinamento com Vídeo e Hyperframes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 - Treinamento com Vídeo e Hyperframes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c90b50379ed5c7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86b1388722355ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d35aa369132bb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "85f977af346d7e3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a5fe1a79c9b72bea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82fbb2ca2fe0d3d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f2357caa33132f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb32784a7ae66b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c4034e88488d8009",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "c789f41ea08fff00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fde9909366bb6c66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "622cd58c08f4da5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "8d4574ef625cf533",
+  "lastOpenFiles": [
+    "Hermes Agent - Base de Conhecimento.md",
+    "crie um link.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/02 - Playbook Criar Treinamento Lector.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/06 - Soul do Agente.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/08 - Pesquisa RH e Treinamento IA no RH.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/00 - Índice.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/03 - SCORM e Conteúdo Didático.md",
+    "obsidian aqui.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/05 - Imagens de Capa.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/04 - Turmas Gratuitas.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live/01 - Linha do Tempo da Sessão.md",
+    "Hermes Agent - Base de Conhecimento/Lector Live",
+    "Hermes Agent - Base de Conhecimento",
+    "teste.mp4",
+    "analise_projeto.md",
+    "Pipeline Visual/🎨 Catálogo de Animações.md",
+    "Pipeline Visual/🗺️ Mapa de Conceitos.md",
+    "Pipeline Visual/Sessões/2026-03-31_Filosofia_Estoica.md",
+    "Pipeline Visual/Sessões/2026-03-31_Historia_completa_da_igreja.md",
+    "Pipeline Visual/Sessões/2026-03-31_Historia_completa_do_macarrao.md",
+    "Pipeline Visual/Sessões/2026-03-31_Viagem_espacial.md",
+    "Pipeline Visual/🧠 SuperCérebro/🧪 Protocolo de Aprendizado.md",
+    "Pipeline Visual/🧠 SuperCérebro/🛠️ Manual de Reconstrução.md",
+    "Pipeline Visual/🧠 SuperCérebro/📖 Enciclopédia Técnica do Produto.md",
+    "Pipeline Visual/🧠 SuperCérebro/📅 Diário de Evolução.md",
+    "Pipeline Visual/🧠 SuperCérebro/🏗️ Arquitetura do Sistema.md",
+    "Pipeline Visual/🧠 SuperCérebro/🎬 Motor de Renderização.md",
+    "Pipeline Visual/🤖 Animações Geradas.md",
+    "Pipeline Visual/📊 Dashboard.md",
+    "Pipeline Visual/Sessões",
+    "Pipeline Visual"
+  ]
+}

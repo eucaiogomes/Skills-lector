@@ -1,0 +1,2850 @@
+{
+  "lista_imagens_para_geracao": [
+    {
+      "id": "img_01_apresentador",
+      "quadro_referencia": "1 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, a young blonde man with spiky hair smiling and pointing his index finger to the right. He is wearing a red polo shirt. Black sharpie outlines, simple flat colors, pure white background, minimalist illustration."
+    },
+    {
+      "id": "img_02_homem_sofa",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a man lying comfortably on a brown sofa, he is reading a book. There is a plate of food resting on him. Black sharpie outlines, flat minimalist colors, pure white background."
+    },
+    {
+      "id": "img_03_mulher_escritorio",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a woman sitting at an office desk looking at a computer monitor. The monitor displays health charts and graphs. Black sharpie outlines, flat minimalist colors, pure white background."
+    },
+    {
+      "id": "img_04_lapide_icones",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a grey gravestone with the letters R.I.P written on it. Floating above the gravestone are three small colorful icons: a bright yellow sun, a full green battery, and a red dumbbell. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_05_homem_em_pe",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, a man standing straight facing forward with a neutral expression. He is wearing a red t-shirt and green shorts. Black sharpie outlines, flat colors, pure white background."
+    },
+    {
+      "id": "img_06_garrafa_refrigerante",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a dark brown plastic soda bottle with a red label. Black sharpie outlines, simple flat colors, pure white background."
+    },
+    {
+      "id": "img_07_cerebro_bateria",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a human brain drawn in black outline. Inside the center of the brain is a bright green full battery icon. Simple flat colors, pure white background."
+    },
+    {
+      "id": "img_08_doces_proibidos",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icons, a piece of wrapped candy, a lollipop, and a purple chocolate bar. All of them are crossed out with a large, thick red X. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_09_geladeira",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a simple modern grey refrigerator standing closed. Black sharpie outlines, flat minimalist colors, pure white background."
+    },
+    {
+      "id": "img_10_reuniao_palitos",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, three stick figures sitting around a rectangular brown meeting table talking. The stick figures wear solid colored shirts: orange, green, and blue. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_11_palito_isolado",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a single stick figure character shrugging its shoulders with arms raised out, looking confused or indifferent. Wearing an orange shirt. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_12_palitos_conectados",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a tight group of five stick figures standing closely together, smiling and connected. They wear different solid colored shirts. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_13_cabeca_cerebro",
+      "quadro_referencia": "7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a profile silhouette of a human head in light blue outline, containing a pink human brain inside it. Black sharpie outlines, flat colors, pure white background."
+    },
+    {
+      "id": "img_14_pilha_livros",
+      "quadro_referencia": "7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a tall stack of five thick, colorful hardcover books. Black sharpie thick outlines, bright flat colors like red, blue, green, yellow, pure white background."
+    },
+    {
+      "id": "img_15_homem_escalando",
+      "quadro_referencia": "7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a tiny man wearing a blue shirt and red pants climbing energetically up the side of a giant stack of books. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_16_multidao_base",
+      "quadro_referencia": "7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a large crowd of generic blank white head silhouettes viewed from behind, looking upwards. Black sharpie thick outlines, pure white background."
+    },
+    {
+      "id": "img_17_despertador",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a classic red twin-bell alarm clock with a white face and black hands. Black sharpie outlines, bright flat red color, pure white background."
+    },
+    {
+      "id": "img_18_bateria_cheia",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a battery symbol completely filled with bright green energy. Black sharpie thick outlines, pure white background."
+    },
+    {
+      "id": "img_19_bateria_metade",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a battery symbol filled exactly halfway with green energy, the top half is empty. Black sharpie thick outlines, pure white background."
+    },
+    {
+      "id": "img_20_quadro_sol",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a rectangular picture frame showing a bright sunny day, light blue sky, fluffy white clouds, and a bright yellow sun. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_21_quadro_chuva",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon, a rectangular picture frame showing a dark night sky, heavy dark grey clouds, a crescent moon, and rain falling. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_22_homem_energizado",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, a man walking proudly with a straight posture, smiling confidently. Big nose, wearing a blue long-sleeve shirt and brown pants. Black sharpie outlines, flat colors, pure white background."
+    },
+    {
+      "id": "img_23_homem_exausto",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, the same man with a big nose, blue shirt, and brown pants, but hunched over, exhausted, dragging his feet, with deep dark circles under his eyes and a sad expression. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_24_homem_cinza",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, a bald man with a big nose, entirely in grayscale (shades of grey). He has a miserable, depressed, and bored facial expression with heavy eyelids. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_25_homem_euforico",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, the same bald man with a big nose, but fully colored with normal skin tone. He is extremely happy, eyes wide open, mouth wide open with tongue out, both arms raised high in the air celebrating. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_26_homem_escritorio_joia",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon character, a happy man in a grey business suit and blue tie, sitting in a blue office chair at a desk with a computer monitor. He is turning to the viewer, smiling brightly and giving a thumbs up. Black sharpie outlines, pure white background."
+    },
+    {
+      "id": "img_27_logo_cerebro_lampada",
+      "quadro_referencia": "10",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a lightbulb shape where the glass part is a human brain. The left hemisphere of the brain is bright blue, and the right hemisphere is bright red. Black sharpie thick outlines, pure white background."
+    }
+  ]
+}
+
+
+{
+  "lista_imagens_para_geracao_parte_2": [
+    {
+      "id": "img_28_comida_saudavel",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icons, a fresh red apple, a bright orange carrot, and a green leafy vegetable. Black sharpie outlines, simple flat colors, pure white background."
+    },
+    {
+      "id": "img_29_seta_azul",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a large thick horizontal arrow pointing to the right. Black sharpie outlines, filled with solid light blue color, pure white background."
+    },
+    {
+      "id": "img_30_emoji_pequeno",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a simple small happy smiling face emoji. Black sharpie outlines, solid yellow circle, pure white background."
+    },
+    {
+      "id": "img_31_emoji_gigante",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a giant, perfectly round, very happy smiling face emoji with wide eyes and a big cheerful smile. Black sharpie thick outlines, bright solid yellow color, pure white background."
+    },
+    {
+      "id": "img_32_nuvem_pensamento",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, an empty fluffy thought bubble pointing downwards with small circles. Black sharpie thick outlines, empty inside, pure white background."
+    },
+    {
+      "id": "img_33_icone_sol",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a bright glowing sun with rays. Black sharpie outlines, solid yellow color, pure white background."
+    },
+    {
+      "id": "img_34_icone_travesseiro",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a soft, comfortable-looking rectangular sleeping pillow. Black sharpie outlines, minimalist shading, pure white background."
+    },
+    {
+      "id": "img_35_icone_halter",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a dark grey gym dumbbell for exercising. Black sharpie outlines, solid grey color, pure white background."
+    },
+    {
+      "id": "img_36_comida_lixo_riscada",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icons, a bag of chips and a can of soda, both aggressively crossed out with a large red X. Black sharpie outlines, flat colors, pure white background."
+    },
+    {
+      "id": "img_37_cigarro_riscado",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a lit cigarette with smoke, crossed out with a large red X indicating 'no smoking'. Black sharpie outlines, flat colors, pure white background."
+    },
+    {
+      "id": "img_38_circulo_verde_marcador",
+      "quadro_referencia": "8",
+      "prompt_geracao": "Whiteboard animation style, graphic element, a thick, slightly imperfect hand-drawn circle made by a marker. Bright neon green color, pure white background."
+    },
+    {
+      "id": "img_39_mao_segurando_caneta",
+      "quadro_referencia": "Todos (Asset global para a animação)",
+      "prompt_geracao": "A top-down view cutout of a real human hand holding a black sharpie marker pen, positioned as if it is drawing on a white surface. High resolution, professional lighting, pure white background for easy background removal."
+    }
+  ]
+}
+
+{
+  "lista_imagens_para_geracao_parte_3": [
+    {
+      "id": "img_40_quadro_branco_borda",
+      "quadro_referencia": "2",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large blank rectangular presentation board with a thick black outline. Pure white background, empty inside."
+    },
+    {
+      "id": "img_41_grafico_saude_monitor",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a flat screen computer monitor displaying a line graph with a red line trending downwards. Black sharpie outlines, minimalist flat colors, pure white background."
+    },
+    {
+      "id": "img_42_icone_estresse",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a tangled, chaotic scribble or knot made of thick red lines, representing stress or anger. Pure white background."
+    },
+    {
+      "id": "img_43_grade_semanas_vida",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large, neat grid chart made of hundreds of tiny empty white squares outlined in black, representing a life calendar. Pure white background."
+    },
+    {
+      "id": "img_44_seta_azul_direita",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple straight arrow pointing to the right. Black sharpie outlines, filled with bright blue color, pure white background."
+    },
+    {
+      "id": "img_45_seta_azul_baixo",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple straight arrow pointing downwards. Black sharpie outlines, filled with bright blue color, pure white background."
+    },
+    {
+      "id": "img_46_balao_fala_retangular",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, an empty rectangular speech bubble with a sharp tail pointing to the bottom left. Black sharpie outlines, empty inside, pure white background."
+    },
+    {
+      "id": "img_47_balao_fala_oval",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, an empty oval speech bubble with a tail pointing downwards. Black sharpie outlines, empty inside, pure white background."
+    },
+    {
+      "id": "img_48_marca_x_vermelho",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large, thick, hand-drawn letter X in bright red marker, used for crossing things out. Pure white background."
+    },
+    {
+      "id": "img_49_borda_azul_titulo",
+      "quadro_referencia": "2",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple rectangular text box frame with a thick blue marker outline. Empty inside, pure white background."
+    }
+  ]
+}
+
+
+{
+  "lista_imagens_para_geracao_parte_4": [
+    {
+      "id": "img_50_numero_1",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 1 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_51_numero_2",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 2 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_52_numero_3",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 3 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_53_numero_4",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 4 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_54_numero_5",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 5 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_55_numero_6",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 6 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_56_bateria_vazia",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, an empty battery symbol. Black sharpie thick outlines, transparent/white inside, pure white background."
+    },
+    {
+      "id": "img_57_bateria_vermelha_baixa",
+      "quadro_referencia": "5 e 8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a battery symbol filled with a very low amount of red energy at the bottom. Black sharpie thick outlines, pure white background."
+    },
+    {
+      "id": "img_58_livro_aberto",
+      "quadro_referencia": "4 e 7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a simple open book with visible pages. Black sharpie outlines, flat minimalist colors, pure white background."
+    },
+    {
+      "id": "img_59_logo_texto",
+      "quadro_referencia": "10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, the handwritten text 'SejaUmaPessoaMelhor' written in thick black marker. The letters S, P, and M are larger and capitalized. Pure white background."
+    },
+    {
+      "id": "img_60_linhas_caderno_fundo",
+      "quadro_referencia": "Todos (Opcional textura)",
+      "prompt_geracao": "Whiteboard animation style background, subtle and very light grey grid lines or notebook lines on a pure white background, mimicking a clean sketch paper or whiteboard surface."
+    }
+  ]
+}
+
+{
+  "moviepy_timeline_parte_1": {
+    "configuracoes_globais": {
+      "resolucao": [1920, 1080],
+      "fps": 30,
+      "cor_fundo": "#FFFFFF"
+    },
+    "trilha_principal": [
+      {
+        "camada": 1,
+        "id_elemento": "animacao_mao_escrevendo",
+        "asset_id": "img_39_mao_segurando_caneta",
+        "tipo_midia": "imagem_com_movimento",
+        "start_time": 0.0,
+        "end_time": 8.0,
+        "posicao_inicial": [200, 800],
+        "posicao_final": [400, 400],
+        "keyframes": [
+          {"tempo": 0.5, "pos": [250, 400]},
+          {"tempo": 2.0, "pos": [300, 700]},
+          {"tempo": 4.0, "pos": [350, 450]}
+        ],
+        "efeito": "movimento_suave_zigue_zague"
+      },
+      {
+        "camada": 0,
+        "id_elemento": "apresentador_estatico",
+        "asset_id": "img_01_apresentador",
+        "tipo_midia": "imagem",
+        "start_time": 0.0,
+        "end_time": 41.0,
+        "posicao": [100, 250],
+        "escala": 0.8,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_radial",
+          "duracao": 8.0,
+          "sincronizar_com": "animacao_mao_escrevendo"
+        }
+      },
+      {
+        "camada": 1,
+        "id_elemento": "animacao_mao_quadro",
+        "asset_id": "img_39_mao_segurando_caneta",
+        "tipo_midia": "imagem_com_movimento",
+        "start_time": 8.5,
+        "end_time": 11.0,
+        "posicao_inicial": [500, 200],
+        "posicao_final": [1800, 900],
+        "efeito": "desenhar_retangulo"
+      },
+      {
+        "camada": 0,
+        "id_elemento": "lousa_branca",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 8.5,
+        "end_time": 41.0,
+        "posicao": [550, 100],
+        "escala": 1.3,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 2.5
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_titulo_experiencia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "EXPERIÊNCIA, REFLEXÃO E CONSELHOS",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#0000FF",
+        "tamanho": 45,
+        "start_time": 10.0,
+        "end_time": 41.0,
+        "posicao": [580, 120],
+        "efeito_entrada": {
+          "tipo": "typewriter",
+          "duracao": 3.0
+        }
+      },
+      {
+        "camada": 0,
+        "id_elemento": "borda_azul_titulo",
+        "asset_id": "img_49_borda_azul_titulo",
+        "tipo_midia": "imagem",
+        "start_time": 11.0,
+        "end_time": 41.0,
+        "posicao": [560, 110],
+        "escala": 1.0,
+        "efeito_entrada": {
+          "tipo": "fadein",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_1",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 19.0,
+        "end_time": 41.0,
+        "posicao": [600, 250],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_2",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 21.0,
+        "end_time": 41.0,
+        "posicao": [1200, 250],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_3",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 24.0,
+        "end_time": 41.0,
+        "posicao": [600, 500],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_4",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 27.0,
+        "end_time": 41.0,
+        "posicao": [1200, 500],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_5",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 30.0,
+        "end_time": 41.0,
+        "posicao": [600, 750],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_6",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 33.0,
+        "end_time": 41.0,
+        "posicao": [1200, 750],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_1_quadro",
+        "asset_id": "img_50_numero_1",
+        "tipo_midia": "imagem",
+        "start_time": 35.0,
+        "end_time": 41.0,
+        "posicao": [530, 250],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_2_quadro",
+        "asset_id": "img_51_numero_2",
+        "tipo_midia": "imagem",
+        "start_time": 36.0,
+        "end_time": 41.0,
+        "posicao": [1130, 250],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_3_quadro",
+        "asset_id": "img_52_numero_3",
+        "tipo_midia": "imagem",
+        "start_time": 37.0,
+        "end_time": 41.0,
+        "posicao": [530, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_4_quadro",
+        "asset_id": "img_53_numero_4",
+        "tipo_midia": "imagem",
+        "start_time": 38.0,
+        "end_time": 41.0,
+        "posicao": [1130, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_5_quadro",
+        "asset_id": "img_54_numero_5",
+        "tipo_midia": "imagem",
+        "start_time": 39.0,
+        "end_time": 41.0,
+        "posicao": [530, 750],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_6_quadro",
+        "asset_id": "img_55_numero_6",
+        "tipo_midia": "imagem",
+        "start_time": 40.0,
+        "end_time": 41.0,
+        "posicao": [1130, 750],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      }
+    ]
+  }
+}
+
+{
+  "moviepy_timeline_parte_2": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_saude",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 42.0,
+        "end_time": 110.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_saude",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "SAÚDE NÃO É UM LUXO, ELA É A BASE",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 43.0,
+        "end_time": 110.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_homem_sofa",
+        "asset_id": "img_02_homem_sofa",
+        "tipo_midia": "imagem",
+        "start_time": 47.0,
+        "end_time": 110.0,
+        "posicao": [300, 400],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "balao_pensamento",
+        "asset_id": "img_32_nuvem_pensamento",
+        "tipo_midia": "imagem",
+        "start_time": 54.0,
+        "end_time": 110.0,
+        "posicao": [250, 250],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "texto_balao_pensamento",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "AÇÕES TEM\nCONSEQUÊNCIAS",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 55.0,
+        "end_time": 110.0,
+        "posicao": [280, 280],
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_mulher_escritorio",
+        "asset_id": "img_03_mulher_escritorio",
+        "tipo_midia": "imagem",
+        "start_time": 63.0,
+        "end_time": 110.0,
+        "posicao": [1200, 400],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_inferior_problema",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "VOCÊ TEM MUITOS PROBLEMAS ATÉ DESCOBRIR UM PROBLEMA DE SAÚDE.\nAÍ VOCÊ SÓ TEM UM PROBLEMA!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 35,
+        "start_time": 69.0,
+        "end_time": 110.0,
+        "posicao": [100, 800],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 4.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_lapide",
+        "asset_id": "img_04_lapide_icones",
+        "tipo_midia": "imagem",
+        "start_time": 85.0,
+        "end_time": 110.0,
+        "posicao": [800, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_sol",
+        "asset_id": "img_33_icone_sol",
+        "tipo_midia": "imagem",
+        "start_time": 93.0,
+        "end_time": 110.0,
+        "posicao": [700, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_travesseiro",
+        "asset_id": "img_34_icone_travesseiro",
+        "tipo_midia": "imagem",
+        "start_time": 94.0,
+        "end_time": 110.0,
+        "posicao": [850, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_halter",
+        "asset_id": "img_35_icone_halter",
+        "tipo_midia": "imagem",
+        "start_time": 95.0,
+        "end_time": 110.0,
+        "posicao": [1000, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_comida_lixo",
+        "asset_id": "img_36_comida_lixo_riscada",
+        "tipo_midia": "imagem",
+        "start_time": 98.0,
+        "end_time": 110.0,
+        "posicao": [1150, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_cigarro",
+        "asset_id": "img_37_cigarro_riscado",
+        "tipo_midia": "imagem",
+        "start_time": 101.0,
+        "end_time": 110.0,
+        "posicao": [1300, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_estresse",
+        "asset_id": "img_42_icone_estresse",
+        "tipo_midia": "imagem",
+        "start_time": 103.0,
+        "end_time": 110.0,
+        "posicao": [1450, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      }
+    ]
+  }
+}
+{
+  "lista_imagens_para_geracao_parte_3": [
+    {
+      "id": "img_40_quadro_branco_borda",
+      "quadro_referencia": "2",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large blank rectangular presentation board with a thick black outline. Pure white background, empty inside."
+    },
+    {
+      "id": "img_41_grafico_saude_monitor",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a flat screen computer monitor displaying a line graph with a red line trending downwards. Black sharpie outlines, minimalist flat colors, pure white background."
+    },
+    {
+      "id": "img_42_icone_estresse",
+      "quadro_referencia": "4",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a tangled, chaotic scribble or knot made of thick red lines, representing stress or anger. Pure white background."
+    },
+    {
+      "id": "img_43_grade_semanas_vida",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large, neat grid chart made of hundreds of tiny empty white squares outlined in black, representing a life calendar. Pure white background."
+    },
+    {
+      "id": "img_44_seta_azul_direita",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple straight arrow pointing to the right. Black sharpie outlines, filled with bright blue color, pure white background."
+    },
+    {
+      "id": "img_45_seta_azul_baixo",
+      "quadro_referencia": "9",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple straight arrow pointing downwards. Black sharpie outlines, filled with bright blue color, pure white background."
+    },
+    {
+      "id": "img_46_balao_fala_retangular",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, an empty rectangular speech bubble with a sharp tail pointing to the bottom left. Black sharpie outlines, empty inside, pure white background."
+    },
+    {
+      "id": "img_47_balao_fala_oval",
+      "quadro_referencia": "6",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, an empty oval speech bubble with a tail pointing downwards. Black sharpie outlines, empty inside, pure white background."
+    },
+    {
+      "id": "img_48_marca_x_vermelho",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a large, thick, hand-drawn letter X in bright red marker, used for crossing things out. Pure white background."
+    },
+    {
+      "id": "img_49_borda_azul_titulo",
+      "quadro_referencia": "2",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon graphic, a simple rectangular text box frame with a thick blue marker outline. Empty inside, pure white background."
+    }
+  ]
+}
+{
+  "lista_imagens_para_geracao_parte_4": [
+    {
+      "id": "img_50_numero_1",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 1 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_51_numero_2",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 2 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_52_numero_3",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 3 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_53_numero_4",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 4 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_54_numero_5",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 5 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_55_numero_6",
+      "quadro_referencia": "3 e 10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, a large hand-drawn number 6 written in thick black marker. Pure white background."
+    },
+    {
+      "id": "img_56_bateria_vazia",
+      "quadro_referencia": "5",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, an empty battery symbol. Black sharpie thick outlines, transparent/white inside, pure white background."
+    },
+    {
+      "id": "img_57_bateria_vermelha_baixa",
+      "quadro_referencia": "5 e 8",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a battery symbol filled with a very low amount of red energy at the bottom. Black sharpie thick outlines, pure white background."
+    },
+    {
+      "id": "img_58_livro_aberto",
+      "quadro_referencia": "4 e 7",
+      "prompt_geracao": "Whiteboard animation style, 2d cartoon icon, a simple open book with visible pages. Black sharpie outlines, flat minimalist colors, pure white background."
+    },
+    {
+      "id": "img_59_logo_texto",
+      "quadro_referencia": "10",
+      "prompt_geracao": "Whiteboard animation style, 2d graphic, the handwritten text 'SejaUmaPessoaMelhor' written in thick black marker. The letters S, P, and M are larger and capitalized. Pure white background."
+    },
+    {
+      "id": "img_60_linhas_caderno_fundo",
+      "quadro_referencia": "Todos (Opcional textura)",
+      "prompt_geracao": "Whiteboard animation style background, subtle and very light grey grid lines or notebook lines on a pure white background, mimicking a clean sketch paper or whiteboard surface."
+    }
+  ]
+}
+{
+  "moviepy_timeline_parte_1": {
+    "configuracoes_globais": {
+      "resolucao": [1920, 1080],
+      "fps": 30,
+      "cor_fundo": "#FFFFFF"
+    },
+    "trilha_principal": [
+      {
+        "camada": 1,
+        "id_elemento": "animacao_mao_escrevendo",
+        "asset_id": "img_39_mao_segurando_caneta",
+        "tipo_midia": "imagem_com_movimento",
+        "start_time": 0.0,
+        "end_time": 8.0,
+        "posicao_inicial": [200, 800],
+        "posicao_final": [400, 400],
+        "keyframes": [
+          {"tempo": 0.5, "pos": [250, 400]},
+          {"tempo": 2.0, "pos": [300, 700]},
+          {"tempo": 4.0, "pos": [350, 450]}
+        ],
+        "efeito": "movimento_suave_zigue_zague"
+      },
+      {
+        "camada": 0,
+        "id_elemento": "apresentador_estatico",
+        "asset_id": "img_01_apresentador",
+        "tipo_midia": "imagem",
+        "start_time": 0.0,
+        "end_time": 41.0,
+        "posicao": [100, 250],
+        "escala": 0.8,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_radial",
+          "duracao": 8.0,
+          "sincronizar_com": "animacao_mao_escrevendo"
+        }
+      },
+      {
+        "camada": 1,
+        "id_elemento": "animacao_mao_quadro",
+        "asset_id": "img_39_mao_segurando_caneta",
+        "tipo_midia": "imagem_com_movimento",
+        "start_time": 8.5,
+        "end_time": 11.0,
+        "posicao_inicial": [500, 200],
+        "posicao_final": [1800, 900],
+        "efeito": "desenhar_retangulo"
+      },
+      {
+        "camada": 0,
+        "id_elemento": "lousa_branca",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 8.5,
+        "end_time": 41.0,
+        "posicao": [550, 100],
+        "escala": 1.3,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 2.5
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_titulo_experiencia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "EXPERIÊNCIA, REFLEXÃO E CONSELHOS",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#0000FF",
+        "tamanho": 45,
+        "start_time": 10.0,
+        "end_time": 41.0,
+        "posicao": [580, 120],
+        "efeito_entrada": {
+          "tipo": "typewriter",
+          "duracao": 3.0
+        }
+      },
+      {
+        "camada": 0,
+        "id_elemento": "borda_azul_titulo",
+        "asset_id": "img_49_borda_azul_titulo",
+        "tipo_midia": "imagem",
+        "start_time": 11.0,
+        "end_time": 41.0,
+        "posicao": [560, 110],
+        "escala": 1.0,
+        "efeito_entrada": {
+          "tipo": "fadein",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_1",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 19.0,
+        "end_time": 41.0,
+        "posicao": [600, 250],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_2",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 21.0,
+        "end_time": 41.0,
+        "posicao": [1200, 250],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_3",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 24.0,
+        "end_time": 41.0,
+        "posicao": [600, 500],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_4",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 27.0,
+        "end_time": 41.0,
+        "posicao": [1200, 500],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_5",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 30.0,
+        "end_time": 41.0,
+        "posicao": [600, 750],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "retangulo_vazio_6",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 33.0,
+        "end_time": 41.0,
+        "posicao": [1200, 750],
+        "escala": 0.4,
+        "efeito_entrada": {
+          "tipo": "mask_reveal_box",
+          "duracao": 1.0
+        }
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_1_quadro",
+        "asset_id": "img_50_numero_1",
+        "tipo_midia": "imagem",
+        "start_time": 35.0,
+        "end_time": 41.0,
+        "posicao": [530, 250],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_2_quadro",
+        "asset_id": "img_51_numero_2",
+        "tipo_midia": "imagem",
+        "start_time": 36.0,
+        "end_time": 41.0,
+        "posicao": [1130, 250],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_3_quadro",
+        "asset_id": "img_52_numero_3",
+        "tipo_midia": "imagem",
+        "start_time": 37.0,
+        "end_time": 41.0,
+        "posicao": [530, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_4_quadro",
+        "asset_id": "img_53_numero_4",
+        "tipo_midia": "imagem",
+        "start_time": 38.0,
+        "end_time": 41.0,
+        "posicao": [1130, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_5_quadro",
+        "asset_id": "img_54_numero_5",
+        "tipo_midia": "imagem",
+        "start_time": 39.0,
+        "end_time": 41.0,
+        "posicao": [530, 750],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "numero_6_quadro",
+        "asset_id": "img_55_numero_6",
+        "tipo_midia": "imagem",
+        "start_time": 40.0,
+        "end_time": 41.0,
+        "posicao": [1130, 750],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      }
+    ]
+  }
+}
+
+{
+  "moviepy_timeline_parte_2": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_saude",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 42.0,
+        "end_time": 110.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_saude",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "SAÚDE NÃO É UM LUXO, ELA É A BASE",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 43.0,
+        "end_time": 110.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_homem_sofa",
+        "asset_id": "img_02_homem_sofa",
+        "tipo_midia": "imagem",
+        "start_time": 47.0,
+        "end_time": 110.0,
+        "posicao": [300, 400],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "balao_pensamento",
+        "asset_id": "img_32_nuvem_pensamento",
+        "tipo_midia": "imagem",
+        "start_time": 54.0,
+        "end_time": 110.0,
+        "posicao": [250, 250],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "texto_balao_pensamento",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "AÇÕES TEM\nCONSEQUÊNCIAS",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 55.0,
+        "end_time": 110.0,
+        "posicao": [280, 280],
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_mulher_escritorio",
+        "asset_id": "img_03_mulher_escritorio",
+        "tipo_midia": "imagem",
+        "start_time": 63.0,
+        "end_time": 110.0,
+        "posicao": [1200, 400],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_inferior_problema",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "VOCÊ TEM MUITOS PROBLEMAS ATÉ DESCOBRIR UM PROBLEMA DE SAÚDE.\nAÍ VOCÊ SÓ TEM UM PROBLEMA!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 35,
+        "start_time": 69.0,
+        "end_time": 110.0,
+        "posicao": [100, 800],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 4.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cena_lapide",
+        "asset_id": "img_04_lapide_icones",
+        "tipo_midia": "imagem",
+        "start_time": 85.0,
+        "end_time": 110.0,
+        "posicao": [800, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_sol",
+        "asset_id": "img_33_icone_sol",
+        "tipo_midia": "imagem",
+        "start_time": 93.0,
+        "end_time": 110.0,
+        "posicao": [700, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_travesseiro",
+        "asset_id": "img_34_icone_travesseiro",
+        "tipo_midia": "imagem",
+        "start_time": 94.0,
+        "end_time": 110.0,
+        "posicao": [850, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_halter",
+        "asset_id": "img_35_icone_halter",
+        "tipo_midia": "imagem",
+        "start_time": 95.0,
+        "end_time": 110.0,
+        "posicao": [1000, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_comida_lixo",
+        "asset_id": "img_36_comida_lixo_riscada",
+        "tipo_midia": "imagem",
+        "start_time": 98.0,
+        "end_time": 110.0,
+        "posicao": [1150, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_cigarro",
+        "asset_id": "img_37_cigarro_riscado",
+        "tipo_midia": "imagem",
+        "start_time": 101.0,
+        "end_time": 110.0,
+        "posicao": [1300, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "icone_estresse",
+        "asset_id": "img_42_icone_estresse",
+        "tipo_midia": "imagem",
+        "start_time": 103.0,
+        "end_time": 110.0,
+        "posicao": [1450, 450],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.3}
+      }
+    ]
+  }
+}
+
+{
+  "moviepy_timeline_parte_3": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_ambiente",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 111.0,
+        "end_time": 196.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_ambiente",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "CONTROLE O SEU AMBIENTE, CONTROLE A SUA VIDA",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 112.0,
+        "end_time": 196.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_em_pe_centro",
+        "asset_id": "img_05_homem_em_pe",
+        "tipo_midia": "imagem",
+        "start_time": 116.0,
+        "end_time": 196.0,
+        "posicao": [800, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "balao_nao_quero",
+        "asset_id": "img_46_balao_fala_retangular",
+        "tipo_midia": "imagem",
+        "start_time": 122.0,
+        "end_time": 140.0,
+        "posicao": [550, 400],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "texto_nao_quero",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "NÃO QUERO\nISSO!!!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 123.0,
+        "end_time": 140.0,
+        "posicao": [580, 430],
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "garrafa_refri",
+        "asset_id": "img_06_garrafa_refrigerante",
+        "tipo_midia": "imagem",
+        "start_time": 120.0,
+        "end_time": 196.0,
+        "posicao": [1100, 500],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "cerebro_bateria",
+        "asset_id": "img_07_cerebro_bateria",
+        "tipo_midia": "imagem",
+        "start_time": 126.0,
+        "end_time": 196.0,
+        "posicao": [300, 500],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_radial", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "doces_proibidos",
+        "asset_id": "img_08_doces_proibidos",
+        "tipo_midia": "imagem",
+        "start_time": 140.0,
+        "end_time": 196.0,
+        "posicao": [1100, 350],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "geladeira",
+        "asset_id": "img_09_geladeira",
+        "tipo_midia": "imagem",
+        "start_time": 154.0,
+        "end_time": 196.0,
+        "posicao": [1300, 450],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "comida_saudavel",
+        "asset_id": "img_28_comida_saudavel",
+        "tipo_midia": "imagem",
+        "start_time": 158.0,
+        "end_time": 196.0,
+        "posicao": [1320, 550],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_faco_tudo",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "FAÇO TUDO QUE FOR PRECISO\nPARA FACILITAR OS BONS HÁBITOS\nE CRIO OBSTÁCULOS PARA\nOS MAUS HÁBITOS",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 177.0,
+        "end_time": 196.0,
+        "posicao": [1000, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 4.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_mentira",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 197.0,
+        "end_time": 251.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_mentira",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "NÃO MINTA PARA SI MESMO",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 198.0,
+        "end_time": 251.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "reuniao_palitos",
+        "asset_id": "img_10_reuniao_palitos",
+        "tipo_midia": "imagem",
+        "start_time": 200.0,
+        "end_time": 251.0,
+        "posicao": [250, 450],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_fazer_outros",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "BASTA FALAR E FAZER\nO QUE OS OUTROS QUEREM",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 207.0,
+        "end_time": 251.0,
+        "posicao": [250, 300],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "seta_azul",
+        "asset_id": "img_29_seta_azul",
+        "tipo_midia": "imagem",
+        "start_time": 210.0,
+        "end_time": 251.0,
+        "posicao": [700, 450],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_ser_voce",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "MAS É MELHOR\nSER VOCÊ MESMO!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "fundo_cor": "#ADD8E6",
+        "tamanho": 35,
+        "start_time": 211.0,
+        "end_time": 251.0,
+        "posicao": [1100, 300],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "palito_isolado",
+        "asset_id": "img_11_palito_isolado",
+        "tipo_midia": "imagem",
+        "start_time": 217.0,
+        "end_time": 251.0,
+        "posicao": [1200, 550],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "palitos_conectados",
+        "asset_id": "img_12_palitos_conectados",
+        "tipo_midia": "imagem",
+        "start_time": 223.0,
+        "end_time": 251.0,
+        "posicao": [1200, 550],
+        "escala": 0.8,
+        "efeito_entrada": {
+          "tipo": "crossfade",
+          "duracao": 1.0,
+          "substitui": "palito_isolado"
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_atrai_pessoas",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "ATRAI PESSOAS\nQUE GOSTAM DE VOCÊ\nPELO QUE VOCÊ É DE VERDADE",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 226.0,
+        "end_time": 251.0,
+        "posicao": [1050, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      }
+    ]
+  },
+  "moviepy_timeline_parte_4": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_leitura",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 252.0,
+        "end_time": 282.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_leitura",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "LEIA SEMPRE",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 253.0,
+        "end_time": 282.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cabeca_cerebro",
+        "asset_id": "img_13_cabeca_cerebro",
+        "tipo_midia": "imagem",
+        "start_time": 256.0,
+        "end_time": 282.0,
+        "posicao": [960, 540],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "pilha_livros",
+        "asset_id": "img_14_pilha_livros",
+        "tipo_midia": "imagem",
+        "start_time": 258.0,
+        "end_time": 282.0,
+        "posicao": [960, 540],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "homem_escalando",
+        "asset_id": "img_15_homem_escalando",
+        "tipo_midia": "imagem",
+        "start_time": 268.0,
+        "end_time": 282.0,
+        "posicao": [1080, 380],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "slide_in_bottom", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_leitura_esquerda",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "A CADA PÁGINA LIDA,\nVOCÊ ESTÁ BAIXANDO\nA SABEDORIA DE\nUMA VIDA INTEIRA\nDE OUTRA PESSOA",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 261.0,
+        "end_time": 282.0,
+        "posicao": [350, 500],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_leitura_direita",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "CADA LIVRO É\nUM CÉREBRO INTEIRO\nTE ENSINANDO\nO QUE LEVOU DÉCADAS\nPRA APRENDER",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 271.0,
+        "end_time": 282.0,
+        "posicao": [1400, 500],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "multidao_base",
+        "asset_id": "img_16_multidao_base",
+        "tipo_midia": "imagem",
+        "start_time": 278.0,
+        "end_time": 282.0,
+        "posicao": [960, 850],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_energia",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 283.0,
+        "end_time": 339.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_energia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "GERENCIE SUA ENERGIA, NÃO O SEU TEMPO",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 284.0,
+        "end_time": 339.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "despertador",
+        "asset_id": "img_17_despertador",
+        "tipo_midia": "imagem",
+        "start_time": 292.0,
+        "end_time": 339.0,
+        "posicao": [1400, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "bateria_cheia",
+        "asset_id": "img_18_bateria_cheia",
+        "tipo_midia": "imagem",
+        "start_time": 295.0,
+        "end_time": 339.0,
+        "posicao": [400, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "quadro_sol",
+        "asset_id": "img_20_quadro_sol",
+        "tipo_midia": "imagem",
+        "start_time": 298.0,
+        "end_time": 339.0,
+        "posicao": [400, 300],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "bateria_metade",
+        "asset_id": "img_19_bateria_metade",
+        "tipo_midia": "imagem",
+        "start_time": 301.0,
+        "end_time": 339.0,
+        "posicao": [800, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "quadro_chuva",
+        "asset_id": "img_21_quadro_chuva",
+        "tipo_midia": "imagem",
+        "start_time": 303.0,
+        "end_time": 339.0,
+        "posicao": [800, 300],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_eficiencia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "MAIS EFICIÊNCIA\nMENOS ESFORÇO",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 30,
+        "start_time": 306.0,
+        "end_time": 339.0,
+        "posicao": [400, 850],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "circulo_verde",
+        "asset_id": "img_38_circulo_verde_marcador",
+        "tipo_midia": "imagem",
+        "start_time": 310.0,
+        "end_time": 339.0,
+        "posicao": [400, 450],
+        "escala": 1.5,
+        "efeito_entrada": {"tipo": "mask_reveal_radial", "duracao": 1.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_produz_mais",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "PRODUZ MAIS\nEM MENOS TEMPO",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 314.0,
+        "end_time": 339.0,
+        "posicao": [800, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_energizado",
+        "asset_id": "img_22_homem_energizado",
+        "tipo_midia": "imagem",
+        "start_time": 336.0,
+        "end_time": 339.0,
+        "posicao": [250, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "slide_in_left", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_exausto",
+        "asset_id": "img_23_homem_exausto",
+        "tipo_midia": "imagem",
+        "start_time": 331.0,
+        "end_time": 339.0,
+        "posicao": [1550, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_bom_dia",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 340.0,
+        "end_time": 385.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_bom_dia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "TENHA UM BOM DIA, E VOCÊ TERÁ UMA BOA VIDA",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 45,
+        "start_time": 341.0,
+        "end_time": 385.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "grade_semanas",
+        "asset_id": "img_43_grade_semanas_vida",
+        "tipo_midia": "imagem",
+        "start_time": 345.0,
+        "end_time": 385.0,
+        "posicao": [960, 450],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "emojis_grid",
+        "asset_id": "img_30_emoji_pequeno",
+        "tipo_midia": "imagem",
+        "start_time": 348.0,
+        "end_time": 385.0,
+        "posicao": [960, 300],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_cinza",
+        "asset_id": "img_24_homem_cinza",
+        "tipo_midia": "imagem",
+        "start_time": 353.0,
+        "end_time": 385.0,
+        "posicao": [300, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_euforico",
+        "asset_id": "img_25_homem_euforico",
+        "tipo_midia": "imagem",
+        "start_time": 356.0,
+        "end_time": 385.0,
+        "posicao": [650, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "emoji_gigante",
+        "asset_id": "img_31_emoji_gigante",
+        "tipo_midia": "imagem",
+        "start_time": 351.0,
+        "end_time": 385.0,
+        "posicao": [960, 500],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.8}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_satisfacao",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "ENCONTRE SATISFAÇÃO\nNO SIMPLES",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 30,
+        "start_time": 366.0,
+        "end_time": 385.0,
+        "posicao": [1500, 400],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_trabalhador",
+        "asset_id": "img_26_homem_escritorio_joia",
+        "tipo_midia": "imagem",
+        "start_time": 369.0,
+        "end_time": 385.0,
+        "posicao": [1550, 700],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "zoom_out_mural",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 386.0,
+        "end_time": 394.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito": "zoom_out_to_0.5"
+      },
+      {
+        "camada": 1,
+        "id_elemento": "apresentador_final",
+        "asset_id": "img_01_apresentador",
+        "tipo_midia": "imagem",
+        "start_time": 386.0,
+        "end_time": 394.0,
+        "posicao": [250, 540],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_branco_final",
+        "asset_id": "cor_solida_branca",
+        "tipo_midia": "solid_color",
+        "start_time": 394.0,
+        "end_time": 404.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "logo_cerebro_lampada",
+        "asset_id": "img_27_logo_cerebro_lampada",
+        "tipo_midia": "imagem",
+        "start_time": 395.0,
+        "end_time": 404.0,
+        "posicao": [500, 540],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_logo_final",
+        "asset_id": "img_59_logo_texto",
+        "tipo_midia": "imagem",
+        "start_time": 397.0,
+        "end_time": 404.0,
+        "posicao": [1200, 540],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_horizontal", "duracao": 2.5}
+      }
+    ]
+  }
+}
+
+{
+  "moviepy_timeline_parte_3": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_ambiente",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 111.0,
+        "end_time": 196.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_ambiente",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "CONTROLE O SEU AMBIENTE, CONTROLE A SUA VIDA",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 112.0,
+        "end_time": 196.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_em_pe_centro",
+        "asset_id": "img_05_homem_em_pe",
+        "tipo_midia": "imagem",
+        "start_time": 116.0,
+        "end_time": 196.0,
+        "posicao": [800, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "balao_nao_quero",
+        "asset_id": "img_46_balao_fala_retangular",
+        "tipo_midia": "imagem",
+        "start_time": 122.0,
+        "end_time": 140.0,
+        "posicao": [550, 400],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "texto_nao_quero",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "NÃO QUERO\nISSO!!!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 123.0,
+        "end_time": 140.0,
+        "posicao": [580, 430],
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "garrafa_refri",
+        "asset_id": "img_06_garrafa_refrigerante",
+        "tipo_midia": "imagem",
+        "start_time": 120.0,
+        "end_time": 196.0,
+        "posicao": [1100, 500],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "cerebro_bateria",
+        "asset_id": "img_07_cerebro_bateria",
+        "tipo_midia": "imagem",
+        "start_time": 126.0,
+        "end_time": 196.0,
+        "posicao": [300, 500],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_radial", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "doces_proibidos",
+        "asset_id": "img_08_doces_proibidos",
+        "tipo_midia": "imagem",
+        "start_time": 140.0,
+        "end_time": 196.0,
+        "posicao": [1100, 350],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "geladeira",
+        "asset_id": "img_09_geladeira",
+        "tipo_midia": "imagem",
+        "start_time": 154.0,
+        "end_time": 196.0,
+        "posicao": [1300, 450],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "comida_saudavel",
+        "asset_id": "img_28_comida_saudavel",
+        "tipo_midia": "imagem",
+        "start_time": 158.0,
+        "end_time": 196.0,
+        "posicao": [1320, 550],
+        "escala": 0.4,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_faco_tudo",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "FAÇO TUDO QUE FOR PRECISO\nPARA FACILITAR OS BONS HÁBITOS\nE CRIO OBSTÁCULOS PARA\nOS MAUS HÁBITOS",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 177.0,
+        "end_time": 196.0,
+        "posicao": [1000, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 4.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_mentira",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 197.0,
+        "end_time": 251.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_mentira",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "NÃO MINTA PARA SI MESMO",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 198.0,
+        "end_time": 251.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "reuniao_palitos",
+        "asset_id": "img_10_reuniao_palitos",
+        "tipo_midia": "imagem",
+        "start_time": 200.0,
+        "end_time": 251.0,
+        "posicao": [250, 450],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_fazer_outros",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "BASTA FALAR E FAZER\nO QUE OS OUTROS QUEREM",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 207.0,
+        "end_time": 251.0,
+        "posicao": [250, 300],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "seta_azul",
+        "asset_id": "img_29_seta_azul",
+        "tipo_midia": "imagem",
+        "start_time": 210.0,
+        "end_time": 251.0,
+        "posicao": [700, 450],
+        "escala": 0.6,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_ser_voce",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "MAS É MELHOR\nSER VOCÊ MESMO!",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "fundo_cor": "#ADD8E6",
+        "tamanho": 35,
+        "start_time": 211.0,
+        "end_time": 251.0,
+        "posicao": [1100, 300],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "palito_isolado",
+        "asset_id": "img_11_palito_isolado",
+        "tipo_midia": "imagem",
+        "start_time": 217.0,
+        "end_time": 251.0,
+        "posicao": [1200, 550],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "palitos_conectados",
+        "asset_id": "img_12_palitos_conectados",
+        "tipo_midia": "imagem",
+        "start_time": 223.0,
+        "end_time": 251.0,
+        "posicao": [1200, 550],
+        "escala": 0.8,
+        "efeito_entrada": {
+          "tipo": "crossfade",
+          "duracao": 1.0,
+          "substitui": "palito_isolado"
+        }
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_atrai_pessoas",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "ATRAI PESSOAS\nQUE GOSTAM DE VOCÊ\nPELO QUE VOCÊ É DE VERDADE",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 226.0,
+        "end_time": 251.0,
+        "posicao": [1050, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      }
+    ]
+  },
+  "moviepy_timeline_parte_4": {
+    "trilha_principal": [
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_leitura",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 252.0,
+        "end_time": 282.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_leitura",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "LEIA SEMPRE",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 253.0,
+        "end_time": 282.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "cabeca_cerebro",
+        "asset_id": "img_13_cabeca_cerebro",
+        "tipo_midia": "imagem",
+        "start_time": 256.0,
+        "end_time": 282.0,
+        "posicao": [960, 540],
+        "escala": 0.9,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "pilha_livros",
+        "asset_id": "img_14_pilha_livros",
+        "tipo_midia": "imagem",
+        "start_time": 258.0,
+        "end_time": 282.0,
+        "posicao": [960, 540],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "homem_escalando",
+        "asset_id": "img_15_homem_escalando",
+        "tipo_midia": "imagem",
+        "start_time": 268.0,
+        "end_time": 282.0,
+        "posicao": [1080, 380],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "slide_in_bottom", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_leitura_esquerda",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "A CADA PÁGINA LIDA,\nVOCÊ ESTÁ BAIXANDO\nA SABEDORIA DE\nUMA VIDA INTEIRA\nDE OUTRA PESSOA",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 261.0,
+        "end_time": 282.0,
+        "posicao": [350, 500],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_leitura_direita",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "CADA LIVRO É\nUM CÉREBRO INTEIRO\nTE ENSINANDO\nO QUE LEVOU DÉCADAS\nPRA APRENDER",
+        "fonte": "Comic Sans MS",
+        "peso": "normal",
+        "cor": "#000000",
+        "tamanho": 28,
+        "start_time": 271.0,
+        "end_time": 282.0,
+        "posicao": [1400, 500],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 3.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "multidao_base",
+        "asset_id": "img_16_multidao_base",
+        "tipo_midia": "imagem",
+        "start_time": 278.0,
+        "end_time": 282.0,
+        "posicao": [960, 850],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_energia",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 283.0,
+        "end_time": 339.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_energia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "GERENCIE SUA ENERGIA, NÃO O SEU TEMPO",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 50,
+        "start_time": 284.0,
+        "end_time": 339.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "despertador",
+        "asset_id": "img_17_despertador",
+        "tipo_midia": "imagem",
+        "start_time": 292.0,
+        "end_time": 339.0,
+        "posicao": [1400, 500],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "bateria_cheia",
+        "asset_id": "img_18_bateria_cheia",
+        "tipo_midia": "imagem",
+        "start_time": 295.0,
+        "end_time": 339.0,
+        "posicao": [400, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "quadro_sol",
+        "asset_id": "img_20_quadro_sol",
+        "tipo_midia": "imagem",
+        "start_time": 298.0,
+        "end_time": 339.0,
+        "posicao": [400, 300],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "bateria_metade",
+        "asset_id": "img_19_bateria_metade",
+        "tipo_midia": "imagem",
+        "start_time": 301.0,
+        "end_time": 339.0,
+        "posicao": [800, 600],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "quadro_chuva",
+        "asset_id": "img_21_quadro_chuva",
+        "tipo_midia": "imagem",
+        "start_time": 303.0,
+        "end_time": 339.0,
+        "posicao": [800, 300],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_eficiencia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "MAIS EFICIÊNCIA\nMENOS ESFORÇO",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 30,
+        "start_time": 306.0,
+        "end_time": 339.0,
+        "posicao": [400, 850],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "circulo_verde",
+        "asset_id": "img_38_circulo_verde_marcador",
+        "tipo_midia": "imagem",
+        "start_time": 310.0,
+        "end_time": 339.0,
+        "posicao": [400, 450],
+        "escala": 1.5,
+        "efeito_entrada": {"tipo": "mask_reveal_radial", "duracao": 1.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_produz_mais",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "PRODUZ MAIS\nEM MENOS TEMPO",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 25,
+        "start_time": 314.0,
+        "end_time": 339.0,
+        "posicao": [800, 750],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_energizado",
+        "asset_id": "img_22_homem_energizado",
+        "tipo_midia": "imagem",
+        "start_time": 336.0,
+        "end_time": 339.0,
+        "posicao": [250, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "slide_in_left", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_exausto",
+        "asset_id": "img_23_homem_exausto",
+        "tipo_midia": "imagem",
+        "start_time": 331.0,
+        "end_time": 339.0,
+        "posicao": [1550, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_quadro_bom_dia",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 340.0,
+        "end_time": 385.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 0.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_titulo_bom_dia",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "TENHA UM BOM DIA, E VOCÊ TERÁ UMA BOA VIDA",
+        "fonte": "Arial",
+        "peso": "bold",
+        "cor": "#FF0000",
+        "tamanho": 45,
+        "start_time": 341.0,
+        "end_time": 385.0,
+        "posicao": ["center", 100],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "grade_semanas",
+        "asset_id": "img_43_grade_semanas_vida",
+        "tipo_midia": "imagem",
+        "start_time": 345.0,
+        "end_time": 385.0,
+        "posicao": [960, 450],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 2.0}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "emojis_grid",
+        "asset_id": "img_30_emoji_pequeno",
+        "tipo_midia": "imagem",
+        "start_time": 348.0,
+        "end_time": 385.0,
+        "posicao": [960, 300],
+        "escala": 0.5,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_cinza",
+        "asset_id": "img_24_homem_cinza",
+        "tipo_midia": "imagem",
+        "start_time": 353.0,
+        "end_time": 385.0,
+        "posicao": [300, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_euforico",
+        "asset_id": "img_25_homem_euforico",
+        "tipo_midia": "imagem",
+        "start_time": 356.0,
+        "end_time": 385.0,
+        "posicao": [650, 750],
+        "escala": 0.7,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 3,
+        "id_elemento": "emoji_gigante",
+        "asset_id": "img_31_emoji_gigante",
+        "tipo_midia": "imagem",
+        "start_time": 351.0,
+        "end_time": 385.0,
+        "posicao": [960, 500],
+        "escala": 1.0,
+        "efeito_entrada": {"tipo": "pop_in", "duracao": 0.8}
+      },
+      {
+        "camada": 2,
+        "id_elemento": "texto_satisfacao",
+        "asset_id": "texto_gerado_via_codigo",
+        "tipo_midia": "texto",
+        "conteudo": "ENCONTRE SATISFAÇÃO\nNO SIMPLES",
+        "fonte": "Comic Sans MS",
+        "peso": "bold",
+        "cor": "#000000",
+        "tamanho": 30,
+        "start_time": 366.0,
+        "end_time": 385.0,
+        "posicao": [1500, 400],
+        "efeito_entrada": {"tipo": "typewriter", "duracao": 2.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "homem_trabalhador",
+        "asset_id": "img_26_homem_escritorio_joia",
+        "tipo_midia": "imagem",
+        "start_time": 369.0,
+        "end_time": 385.0,
+        "posicao": [1550, 700],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "zoom_out_mural",
+        "asset_id": "img_40_quadro_branco_borda",
+        "tipo_midia": "imagem",
+        "start_time": 386.0,
+        "end_time": 394.0,
+        "posicao": ["center", "center"],
+        "escala": 1.0,
+        "efeito": "zoom_out_to_0.5"
+      },
+      {
+        "camada": 1,
+        "id_elemento": "apresentador_final",
+        "asset_id": "img_01_apresentador",
+        "tipo_midia": "imagem",
+        "start_time": 386.0,
+        "end_time": 394.0,
+        "posicao": [250, 540],
+        "escala": 0.8,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 0,
+        "id_elemento": "fundo_branco_final",
+        "asset_id": "cor_solida_branca",
+        "tipo_midia": "solid_color",
+        "start_time": 394.0,
+        "end_time": 404.0,
+        "efeito_entrada": {"tipo": "fadein", "duracao": 1.0}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "logo_cerebro_lampada",
+        "asset_id": "img_27_logo_cerebro_lampada",
+        "tipo_midia": "imagem",
+        "start_time": 395.0,
+        "end_time": 404.0,
+        "posicao": [500, 540],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_box", "duracao": 1.5}
+      },
+      {
+        "camada": 1,
+        "id_elemento": "texto_logo_final",
+        "asset_id": "img_59_logo_texto",
+        "tipo_midia": "imagem",
+        "start_time": 397.0,
+        "end_time": 404.0,
+        "posicao": [1200, 540],
+        "escala": 1.2,
+        "efeito_entrada": {"tipo": "mask_reveal_horizontal", "duracao": 2.5}
+      }
+    ]
+  }
+}
+
+{
+  "compositions_parte_3": [
+    {
+      "comp_id": "cena_02_ambiente",
+      "time_range": [111.0, 196.0],
+      "layers": [
+        {
+          "layer_id": "bg_white_solid",
+          "z_index": 0,
+          "type": "moviepy_colorclip",
+          "color": [255, 255, 255],
+          "moviepy_effect": {"type": "fadein", "duration": 0.5}
+        },
+        {
+          "layer_id": "titulo_ambiente_pil",
+          "z_index": 1,
+          "type": "pil_textclip",
+          "text_content": "CONTROLE O SEU AMBIENTE, CONTROLE A SUA VIDA",
+          "font_ref": "main_bold",
+          "font_size": 52,
+          "fill_color": [255, 0, 0, 255],
+          "align": "center",
+          "in_point": 112.0,
+          "transform": {"position": {"t": 112.0, "val": [960, 80]}},
+          "cv2_mask": {
+            "type": "animated_box_reveal",
+            "method": "cv2.rectangle",
+            "keyframes_bbox": [
+              {"t": 112.0, "val": [0, 0, 0, 200]},
+              {"t": 114.5, "val": [0, 0, 1920, 200]}
+            ]
+          }
+        },
+        {
+          "layer_id": "personagem_central_pil",
+          "z_index": 2,
+          "type": "pil_imageclip",
+          "asset_ref": "img_05_homem_em_pe",
+          "in_point": 116.0,
+          "transform": {
+            "position": {"t": 116.0, "val": [960, 540]},
+            "scale": {"t": 116.0, "val": [0.85, 0.85]}
+          },
+          "cv2_mask": {
+            "type": "animated_contour_reveal",
+            "method": "cv2.drawContours",
+            "duration": 2.5
+          }
+        },
+        {
+          "layer_id": "cv2_balao_retangular_draw",
+          "z_index": 3,
+          "type": "cv2_shape_generator",
+          "shape": "speech_bubble_rect",
+          "line_color": [0, 0, 0, 255],
+          "thickness": 4,
+          "in_point": 122.0,
+          "out_point": 140.0,
+          "transform": {"position": {"t": 122.0, "val": [700, 400]}},
+          "cv2_anim": {"method": "progressive_path_draw", "duration": 1.0}
+        },
+        {
+          "layer_id": "texto_nao_quero_pil",
+          "z_index": 4,
+          "type": "pil_textclip",
+          "text_content": "NÃO QUERO\nISSO!!!",
+          "font_ref": "marker_hand",
+          "font_size": 28,
+          "fill_color": [0, 0, 0, 255],
+          "in_point": 123.0,
+          "out_point": 140.0,
+          "transform": {"position": {"t": 123.0, "val": [700, 400]}},
+          "moviepy_effect": {"type": "fadein", "duration": 0.3}
+        },
+        {
+          "layer_id": "cerebro_bateria_pil",
+          "z_index": 2,
+          "type": "pil_imageclip",
+          "asset_ref": "img_07_cerebro_bateria",
+          "in_point": 126.0,
+          "transform": {
+            "position": {"t": 126.0, "val": [400, 540]},
+            "scale": {"t": 126.0, "val": [0.9, 0.9]}
+          },
+          "cv2_mask": {
+            "type": "animated_radial_mask",
+            "method": "cv2.circle",
+            "duration": 3.0
+          }
+        },
+        {
+          "layer_id": "geladeira_reveal",
+          "z_index": 1,
+          "type": "pil_imageclip",
+          "asset_ref": "img_09_geladeira",
+          "in_point": 154.0,
+          "transform": {
+            "position": {"t": 154.0, "val": [1500, 540]},
+            "scale": {"t": 154.0, "val": [1.1, 1.1]}
+          },
+          "cv2_mask": {
+            "type": "animated_box_reveal",
+            "method": "cv2.rectangle",
+            "duration": 2.0
+          }
+        },
+        {
+          "layer_id": "mao_animacao_pipeline",
+          "z_index": 100,
+          "type": "pil_imageclip",
+          "asset_ref": "mao_caneta",
+          "transform": {
+            "position_keyframes": [
+              {"t": 112.0, "val": [400, 80]},
+              {"t": 114.5, "val": [1520, 80]},
+              {"t": 116.0, "val": [960, 540]},
+              {"t": 122.0, "val": [700, 400]},
+              {"t": 154.0, "val": [1500, 540]},
+              {"t": 177.0, "val": [1100, 800]}
+            ],
+            "rotation_keyframes": [
+              {"t": 116.0, "val": 0},
+              {"t": 116.5, "val": 15},
+              {"t": 117.0, "val": -5}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "comp_id": "cena_03_mentira",
+      "time_range": [197.0, 251.0],
+      "layers": [
+        {
+          "layer_id": "bg_transition",
+          "z_index": 0,
+          "type": "moviepy_colorclip",
+          "color": [255, 255, 255],
+          "moviepy_effect": {"type": "crossfadein", "duration": 0.8}
+        },
+        {
+          "layer_id": "titulo_mentira_pil",
+          "z_index": 1,
+          "type": "pil_textclip",
+          "text_content": "NÃO MINTA PARA SI MESMO",
+          "font_ref": "main_bold",
+          "font_size": 55,
+          "fill_color": [255, 0, 0, 255],
+          "in_point": 198.0,
+          "transform": {"position": {"t": 198.0, "val": [960, 100]}},
+          "cv2_mask": {"type": "animated_box_reveal", "duration": 1.5}
+        },
+        {
+          "layer_id": "reuniao_table_pil",
+          "z_index": 2,
+          "type": "pil_imageclip",
+          "asset_ref": "img_10_reuniao_palitos",
+          "in_point": 200.0,
+          "transform": {
+            "position": {"t": 200.0, "val": [450, 540]},
+            "scale": {"t": 200.0, "val": [0.95, 0.95]}
+          },
+          "cv2_mask": {
+            "type": "animated_contour_reveal",
+            "method": "cv2.drawContours",
+            "duration": 3.5
+          }
+        },
+        {
+          "layer_id": "seta_azul_cv2_reveal",
+          "z_index": 2,
+          "type": "pil_imageclip",
+          "asset_ref": "img_29_seta_azul",
+          "in_point": 210.0,
+          "transform": {
+            "position": {"t": 210.0, "val": [960, 540]},
+            "scale": {"t": 210.0, "val": [0.7, 0.7]}
+          },
+          "moviepy_effect": {"type": "fadein", "duration": 0.5}
+        },
+        {
+          "layer_id": "pil_rect_highlight_bg",
+          "z_index": 1,
+          "type": "pil_shape_draw",
+          "shape": "rounded_rectangle",
+          "fill_color": [173, 216, 230, 255],
+          "in_point": 211.0,
+          "transform": {
+            "position": {"t": 211.0, "val": [1400, 300]},
+            "scale": {"t": 211.0, "val": [1.0, 1.0]}
+          },
+          "moviepy_effect": {"type": "pop_in", "duration": 0.4}
+        },
+        {
+          "layer_id": "texto_ser_voce_pil",
+          "z_index": 2,
+          "type": "pil_textclip",
+          "text_content": "MAS É MELHOR\nSER VOCÊ MESMO!",
+          "font_ref": "main_bold",
+          "font_size": 40,
+          "fill_color": [0, 0, 0, 255],
+          "in_point": 211.5,
+          "transform": {"position": {"t": 211.5, "val": [1400, 300]}},
+          "moviepy_effect": {"type": "typewriter_mask", "duration": 2.0}
+        },
+        {
+          "layer_id": "palito_isolated_morph",
+          "z_index": 3,
+          "type": "pil_imageclip",
+          "asset_ref": "img_11_palito_isolado",
+          "in_point": 217.0,
+          "out_point": 223.0,
+          "transform": {
+            "position": {"t": 217.0, "val": [1400, 650]},
+            "scale": {"t": 217.0, "val": [0.8, 0.8]}
+          },
+          "moviepy_effect": {"type": "fadeout", "duration": 0.8, "start_at": 222.2}
+        },
+        {
+          "layer_id": "palitos_connected_morph",
+          "z_index": 4,
+          "type": "pil_imageclip",
+          "asset_ref": "img_12_palitos_conectados",
+          "in_point": 222.2,
+          "transform": {
+            "position": {"t": 222.2, "val": [1400, 650]},
+            "scale": {"t": 222.2, "val": [0.85, 0.85]}
+          },
+          "moviepy_effect": {"type": "fadein", "duration": 0.8}
+        }
+      ]
+    }
+  ]
+}
