@@ -1,2 +1,18 @@
 .env
 **/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.agent-reach-venv/
+venv/
+.venv/
+
+# Tool/runtime artifacts
+agent-tools/
+terminals/
+.mcp-agent/
+
+# OS
+.DS_Store
+Thumbs.db
